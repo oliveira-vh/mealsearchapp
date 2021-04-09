@@ -2,7 +2,7 @@
   "name": "mealsearch-api",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server/server.js",
   "scripts": {
     "test": "jest --env node",
     "start": "node server/server.js"
